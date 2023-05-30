@@ -1,0 +1,72 @@
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.csproj.GenerateResource.cache
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfo.cs
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\accou\Desktop\Snake\bin\Debug\net5.0-windows\Snake.exe
+C:\Users\accou\Desktop\Snake\bin\Debug\net5.0-windows\Snake.deps.json
+C:\Users\accou\Desktop\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.json
+C:\Users\accou\Desktop\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.dev.json
+C:\Users\accou\Desktop\Snake\bin\Debug\net5.0-windows\Snake.dll
+C:\Users\accou\Desktop\Snake\bin\Debug\net5.0-windows\Snake.pdb
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.dll
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\refint\Snake.dll
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.pdb
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.genruntimeconfig.cache
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\ref\Snake.dll
+C:\Users\accou\Desktop\Snake\obj\Debug\net5.0-windows\Snake.Snake_Form.resources
+E:\Загрузки\Snake\bin\Debug\net5.0-windows\Snake.exe
+E:\Загрузки\Snake\bin\Debug\net5.0-windows\Snake.deps.json
+E:\Загрузки\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.json
+E:\Загрузки\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.dev.json
+E:\Загрузки\Snake\bin\Debug\net5.0-windows\Snake.dll
+E:\Загрузки\Snake\bin\Debug\net5.0-windows\Snake.pdb
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.csproj.AssemblyReference.cache
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.Snake_Form.resources
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.csproj.GenerateResource.cache
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfoInputs.cache
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfo.cs
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.csproj.CoreCompileInputs.cache
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.dll
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\refint\Snake.dll
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.pdb
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\Snake.genruntimeconfig.cache
+E:\Загрузки\Snake\obj\Debug\net5.0-windows\ref\Snake.dll
+C:\Users\accou\Desktop\Snake game\Snake\bin\Debug\net5.0-windows\Snake.exe
+C:\Users\accou\Desktop\Snake game\Snake\bin\Debug\net5.0-windows\Snake.deps.json
+C:\Users\accou\Desktop\Snake game\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.json
+C:\Users\accou\Desktop\Snake game\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.dev.json
+C:\Users\accou\Desktop\Snake game\Snake\bin\Debug\net5.0-windows\Snake.dll
+C:\Users\accou\Desktop\Snake game\Snake\bin\Debug\net5.0-windows\Snake.pdb
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.Snake_Form.resources
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.csproj.GenerateResource.cache
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfo.cs
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.dll
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\refint\Snake.dll
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.pdb
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\Snake.genruntimeconfig.cache
+C:\Users\accou\Desktop\Snake game\Snake\obj\Debug\net5.0-windows\ref\Snake.dll
+C:\Users\accou\Desktop\Игра\Snake game\Snake\bin\Debug\net5.0-windows\Snake.exe
+C:\Users\accou\Desktop\Игра\Snake game\Snake\bin\Debug\net5.0-windows\Snake.deps.json
+C:\Users\accou\Desktop\Игра\Snake game\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.json
+C:\Users\accou\Desktop\Игра\Snake game\Snake\bin\Debug\net5.0-windows\Snake.runtimeconfig.dev.json
+C:\Users\accou\Desktop\Игра\Snake game\Snake\bin\Debug\net5.0-windows\Snake.dll
+C:\Users\accou\Desktop\Игра\Snake game\Snake\bin\Debug\net5.0-windows\Snake.pdb
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.Snake_Form.resources
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.csproj.GenerateResource.cache
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.AssemblyInfo.cs
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.dll
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\refint\Snake.dll
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.pdb
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\Snake.genruntimeconfig.cache
+C:\Users\accou\Desktop\Игра\Snake game\Snake\obj\Debug\net5.0-windows\ref\Snake.dll
